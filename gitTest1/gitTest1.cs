@@ -25,6 +25,12 @@ namespace gitTest1
             };
 
 
+            var lab = new Label { };
+
+
+            lab.BackgroundColor = Color.Black;
+
+            lab.Text = "";
 
             System.Diagnostics.Debug.WriteLine("xyz");
 
