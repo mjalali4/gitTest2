@@ -33,6 +33,8 @@ namespace gitTest1
 
         protected override void OnStart()
         {
+
+            System.Diagnostics.Debug.WriteLine("ttt");
             // Handle when your app starts
         }
 
