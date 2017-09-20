@@ -25,13 +25,7 @@ namespace gitTest1
             };
 
 
-            var lab = new Label { };
-
-            lab.BackgroundColor = Color.Black;
-
-            lab.Text = "";
-
-            System.Diagnostics.Debug.WriteLine("xyz");
+            var view1 = new StackLayout { };
 
             MainPage = new NavigationPage(content);
         }
