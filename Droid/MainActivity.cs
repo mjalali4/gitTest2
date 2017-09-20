@@ -22,6 +22,10 @@ namespace gitTest1.Droid
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
 
+
+            System.Diagnostics.Debug.WriteLine("");
+
+
             LoadApplication(new App());
         }
     }
