@@ -27,6 +27,9 @@ namespace gitTest1
 
             var view1 = new StackLayout { };
 
+
+
+
             MainPage = new NavigationPage(content);
         }
 
@@ -34,6 +37,9 @@ namespace gitTest1
         {
 
             System.Diagnostics.Debug.WriteLine("ttt");
+
+
+
             // Handle when your app starts
         }
 
