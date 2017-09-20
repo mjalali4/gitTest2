@@ -29,8 +29,13 @@ namespace gitTest1
 
 
 
+			var view2 = new StackLayout { };
+			var view3 = new StackLayout { };
 
-            MainPage = new NavigationPage(content);
+
+
+
+			MainPage = new NavigationPage(content);
         }
 
         protected override void OnStart()
@@ -38,7 +43,7 @@ namespace gitTest1
 
             System.Diagnostics.Debug.WriteLine("ttt");
 
-
+            var ll = new Label { };
 
             // Handle when your app starts
         }

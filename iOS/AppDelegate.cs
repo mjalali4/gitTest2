@@ -21,6 +21,9 @@ namespace gitTest1.iOS
 
             LoadApplication(new App());
 
+
+            System.Diagnostics.Debug.Write("");
+
             return base.FinishedLaunching(app, options);
         }
     }
