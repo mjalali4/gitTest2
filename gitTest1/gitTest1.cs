@@ -24,7 +24,7 @@ namespace gitTest1
                 }
             };
 
-
+            //pppoooo
             var view1 = new StackLayout { };
 
 
