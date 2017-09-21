@@ -33,6 +33,8 @@ namespace gitTest1
 			var view3 = new StackLayout { };
 
 
+            var vv = new RelativeLayout { };
+
             var view4 = new StackLayout { };
 
 			MainPage = new NavigationPage(content);
