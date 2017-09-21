@@ -33,7 +33,7 @@ namespace gitTest1
 			var view3 = new StackLayout { };
 
 
-
+            var view4 = new StackLayout { };
 
 			MainPage = new NavigationPage(content);
         }
